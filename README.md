@@ -1,2 +1,3 @@
-# PraticoII
-Nicolas Rabellino y Facundo Nuñez
+# PraticoII C#
+
+Nicolas Rabellino y Facundo Nuñez 
