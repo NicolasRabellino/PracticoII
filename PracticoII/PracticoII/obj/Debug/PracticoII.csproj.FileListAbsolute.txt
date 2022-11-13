@@ -1,0 +1,8 @@
+C:\Users\nicor\OneDrive\Escritorio\testeando\Practico\PracticoII\PracticoII\obj\Debug\PracticoII.csproj.AssemblyReference.cache
+C:\Users\nicor\OneDrive\Escritorio\testeando\Practico\PracticoII\PracticoII\obj\Debug\PracticoII.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicor\OneDrive\Escritorio\testeando\Practico\PracticoII\PracticoII\obj\Debug\PracticoII.csproj.CoreCompileInputs.cache
+C:\Users\nicor\OneDrive\Escritorio\testeando\Practico\PracticoII\PracticoII\bin\Debug\PracticoII.exe.config
+C:\Users\nicor\OneDrive\Escritorio\testeando\Practico\PracticoII\PracticoII\bin\Debug\PracticoII.exe
+C:\Users\nicor\OneDrive\Escritorio\testeando\Practico\PracticoII\PracticoII\bin\Debug\PracticoII.pdb
+C:\Users\nicor\OneDrive\Escritorio\testeando\Practico\PracticoII\PracticoII\obj\Debug\PracticoII.exe
+C:\Users\nicor\OneDrive\Escritorio\testeando\Practico\PracticoII\PracticoII\obj\Debug\PracticoII.pdb
